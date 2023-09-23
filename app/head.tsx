@@ -11,9 +11,9 @@ const Head = () => {
 
   const meta = {
     title: `Muhammad Ahmer ${pathname === '/' ? '' : '· ' + titleFixedToShow}`,
-    description: `Hi! My name is Muhammad Ahmer I'm from Venezuela and I have +2 year of work experience in JavaScript/TypeScript and React, I'm a lover of page design or other things and whenever I can I try to learn new technologies since I discovered programming at 16. I love what I do and I help others with what I can, I also use in web, mobile and desktop development Next.js, Angular, Ionic and Electron implementing good practices, clean architecture, pixel perfect and agile methodologies.`,
+    description: `Hi! My name is Muhammad Ahmer I'm from Pakistan and I have +2 year of work experience in JavaScript/TypeScript and React, I'm a lover of page design or other things and whenever I can I try to learn new technologies since I discovered programming at 16. I love what I do and I help others with what I can, I also use in web, mobile and desktop development Next.js, Angular, Ionic and Electron implementing good practices, clean architecture, pixel perfect and agile methodologies.`,
     keywords:
-      'Muhammad Ahmer, ahmerarain, Muhammad Ahmer portafolio, ahmerarain portafolio, ahmerarain portfolio, Muhammad Ahmer portfolio, ahmerarain github, Muhammad Ahmer github, ahmerarain LinkedIn, Muhammad Ahmer LinkedIn, Web, Desarrollo web, Programador web, Diseño web, Paginas web, Aplicaciones web, Aplicaciones móviles, Aplicaciones escritorio, Desarrollo frontend, Programador frontend, HTML, CSS, Javascript, Typescript, React, Angular.',
+      'Muhammad Ahmer, ahmerarain, Muhammad Ahmer portfolio, ahmerarain portfolio, ahmerarain portfolio, Muhammad Ahmer portfolio, ahmerarain github, Muhammad Ahmer github, ahmerarain LinkedIn, Muhammad Ahmer LinkedIn, Web, Programming web,  Application web, frontend,backend HTML, CSS, Javascript, Typescript, React, Express, MERN, ',
     type: 'website'
   };
 
