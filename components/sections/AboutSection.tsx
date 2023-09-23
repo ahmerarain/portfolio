@@ -47,10 +47,10 @@ const AboutSection = () => {
             Frontend.
           </p>
 
-          <p className="text-base text-gray-400">
+          {/* <p className="text-base text-gray-400">
             Event though the scope of web development is wide, I was very
             interested and focused on Frontend development.
-          </p>
+          </p> */}
 
           <div className="flex flex-col items-start gap-3 mt-3">
             {skills.map(({ title, techs }) => (

@@ -14,29 +14,29 @@ export const navItemsSelected: { [key: string]: NavItemHeaderAnimation } = {
     name: 'Skills',
     x: 65,
     y: -3,
-    w: '50px'
+    w: '60px'
   },
   '/projects': {
     name: 'Projects',
-    x: 130,
+    x: 127,
     y: -3,
     w: '75px'
   },
   '/about': {
     name: 'About',
-    x: 209,
+    x: 207,
     y: -3,
     w: '60px'
   },
   '/contact': {
     name: 'Contact',
-    x: 209,
+    x: 273,
     y: -3,
-    w: '50px'
+    w: '75px'
   },
   '/blog': {
     name: 'Blog',
-    x: 209,
+    x: 351,
     y: -3,
     w: '50px'
   }
@@ -54,7 +54,7 @@ const LinksNav = () => {
             key={path}
             href={path}
             className={clsx(
-              'hidden lg:inline-block transition ease hover:text-neutral-200 py-[2px] px-[10px]',
+              'hidden lg:inline-block transition ease  hover:text-neutral-200 py-[2px] px-[10px]',
               {
                 'text-neutral-500': !isActive,
                 'font-bold': isActive
