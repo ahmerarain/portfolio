@@ -54,17 +54,17 @@ export const skills = [
       'Elementor'
     ]
   },
-  {
-    title: 'Agile methodologies and coding principles',
-    techs: [
-      'GitFlow',
-      'SCRUM',
-      'Clean Code',
-      'SOLID',
-      'Clean Architecture',
-      'Pixel perfect'
-    ]
-  },
+  // {
+  //   title: 'Agile methodologies and coding principles',
+  //   techs: [
+  //     'GitFlow',
+  //     'SCRUM',
+  //     'Clean Code',
+  //     'SOLID',
+  //     'Clean Architecture',
+  //     'Pixel perfect'
+  //   ]
+  // },
   {
     title: 'Cloud',
     techs: ['AWS', 'OCI']
